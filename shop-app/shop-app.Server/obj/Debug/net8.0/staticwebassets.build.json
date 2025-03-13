@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "iUjeFRXKy75Z3XADFtarhEwnxh0/ZOjgwh5/Z/KiN9Q=",
+  "Source": "shop-app.Server",
+  "BasePath": "_content/shop-app.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\shop-app.client.esproj",
+      "Version": 2,
+      "Source": "shop-app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
