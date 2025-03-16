@@ -464,11 +464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.Server\\shop-app.Server.csproj",
+      "projectUniqueName": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.Server\\shop-app.Server.csproj",
       "projectName": "shop-app.Server",
-      "projectPath": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.Server\\shop-app.Server.csproj",
+      "projectPath": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.Server\\shop-app.Server.csproj",
       "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.Server\\obj\\",
+      "outputPath": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",

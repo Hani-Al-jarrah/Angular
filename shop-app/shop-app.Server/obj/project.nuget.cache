@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mK1Y1FIyL+k=",
+  "dgSpecHash": "Hs17MEdSaf4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.Server\\shop-app.Server.csproj",
+  "projectFilePath": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.Server\\shop-app.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mac\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.14\\microsoft.aspnetcore.spaproxy.8.0.14.nupkg.sha512",
     "C:\\Users\\mac\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,1 +1,2 @@
 C:\Users\mac\source\repos\shop-app\shop-app.client\obj\Debug\shop-app.client.esproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\Angular\shop-app\shop-app.client\obj\Debug\shop-app.client.esproj.CoreCompileInputs.cache

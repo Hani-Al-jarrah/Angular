@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.Server\\..\\shop-app.client",
+"WorkingDirectory": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.Server\\..\\shop-app.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

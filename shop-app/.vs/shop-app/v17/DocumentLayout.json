@@ -1,46 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mac\\source\\repos\\shop-app\\",
+  "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\categories\\categories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\categories\\categories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\categories\\categories.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\categories\\categories.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\shop-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\app\\shop-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\shop-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,132 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "categories.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\categories\\categories.component.ts",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\categories\\categories.component.ts",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\categories\\categories.component.ts",
-              "RelativeToolTip": "shop-app.client\\src\\app\\categories\\categories.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "shop-service.service.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\shop-service.service.ts",
+              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\shop-service.service.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\shop-service.service.ts",
+              "RelativeToolTip": "shop-app.client\\src\\app\\shop-service.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:39:51.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "shop-app.client\\src\\app\\app.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T13:43:03.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "product-details.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\product-details\\product-details.component.ts",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\product-details\\product-details.component.ts",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\product-details\\product-details.component.ts",
-              "RelativeToolTip": "shop-app.client\\src\\app\\product-details\\product-details.component.ts",
-              "ViewState": "AgIAABYAAAAYMzMzM1MwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:42:21.616Z",
+              "WhenOpened": "2025-03-16T19:29:45.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "categories.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\categories\\categories.component.html",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\categories\\categories.component.html",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\categories\\categories.component.html",
-              "RelativeToolTip": "shop-app.client\\src\\app\\categories\\categories.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T13:40:57.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "product-details.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\product-details\\product-details.component.html",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\product-details\\product-details.component.html",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\product-details\\product-details.component.html",
-              "RelativeToolTip": "shop-app.client\\src\\app\\product-details\\product-details.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T13:42:51.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "products.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\products\\products.component.ts",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\products\\products.component.ts",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\products\\products.component.ts",
-              "RelativeToolTip": "shop-app.client\\src\\app\\products\\products.component.ts",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\index.html",
+              "RelativeDocumentMoniker": "shop-app.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\index.html",
+              "RelativeToolTip": "shop-app.client\\src\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:41:20.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "shop-app.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:48:55.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "shop-app.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAAAAAAAANDMzMzPrvwcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:37:28.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "products.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\products\\products.component.html",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\products\\products.component.html",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\products\\products.component.html",
-              "RelativeToolTip": "shop-app.client\\src\\app\\products\\products.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T13:42:08.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "shop-service.service.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\shop-service.service.ts",
-              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\shop-service.service.ts",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\shop-app\\shop-app.client\\src\\app\\shop-service.service.ts",
-              "RelativeToolTip": "shop-app.client\\src\\app\\shop-service.service.ts",
-              "ViewState": "AgIAAAcAAABAMzMzM/M2wBYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:39:24.661Z",
+              "WhenOpened": "2025-03-16T16:34:15.081Z",
               "EditorCaption": ""
             }
           ]
