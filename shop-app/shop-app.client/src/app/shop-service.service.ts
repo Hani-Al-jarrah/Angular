@@ -23,4 +23,14 @@ export class ShopService {
   getProductById(productId: string): Observable<any> {
     return this.http.get<any>(`${this.productsUrl}/${productId}`);
   }
+  //////////////////////////////
+
+
+
+  Addcategory(newcategory: any) {
+    return this.http.post<any>(this.categoriesUrl, newcategory);
+  }
+  Addproduct(newproduct: any) {
+    return this.http.post<any>(this.productsUrl, newproduct);
+  }
 }
