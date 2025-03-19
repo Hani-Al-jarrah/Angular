@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|c:\\users\\mac\\desktop\\angular\\shop-app\\shop-app.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{AB4200AD-25CC-4C7D-BEA1-87D2B2BA1D33}|shop-app.client\\shop-app.client.esproj|solutionrelative:shop-app.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -18,11 +38,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "shop-app.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T09:04:33.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "shop-app.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAwAAACAmpmZmVkuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T09:00:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "shop-app.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T08:21:29.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "shop-app.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T08:16:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "shop-app.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "shop-app.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAA8AAADAZWZmZmYEwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T08:05:11.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "add-product.component.ts",
               "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\add-product\\add-product.component.ts",
               "RelativeDocumentMoniker": "shop-app.client\\src\\app\\add-product\\add-product.component.ts",
@@ -34,12 +123,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "shop-service.service.ts",
               "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\shop-app\\shop-app.client\\src\\app\\shop-service.service.ts",
               "RelativeDocumentMoniker": "shop-app.client\\src\\app\\shop-service.service.ts",
@@ -47,8 +132,7 @@
               "RelativeToolTip": "shop-app.client\\src\\app\\shop-service.service.ts",
               "ViewState": "AgIAAAYAAADAzczMzIwjwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T08:46:10.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T08:46:10.169Z"
             }
           ]
         }

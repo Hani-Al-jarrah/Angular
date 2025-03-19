@@ -1,2 +1,22 @@
+<!--<router-outlet></router-outlet>-->
+<div class="container">
+  <h1>Angular Pipes Example</h1>
 
-<router-outlet></router-outlet>
+  <h2>1. Number Pipes</h2>
+  <p>Original Number: {{ numberValue }}</p>
+  <p>Decimal Pipe (1.2-2 format): {{ numberValue | number:'1.2-2' }}</p>
+  <p>Currency Pipe (USD): {{ numberValue | currency:'USD' }}</p>
+  <p>Percent Pipe: {{ 0.25 | percent }}</p>
+
+  <h2>2. Date Pipe</h2>
+  <p>Current Date: {{ currentDate }}</p>
+  <p>Formatted Date (long format): {{ currentDate | date:'longDate' }}</p>
+  <p>Formatted Date (dd/MM/yyyy): {{ currentDate | date:'dd/MM/yyyy' }}</p>
+
+  <h2>3. Array Pipes</h2>
+  <p>Original Array: {{ arrayValues | json }}</p>
+  <p>Sliced Array (Index 1 to 3): {{ arrayValues | slice:1:3 }}</p>
+
+  <h2>4. Object Pipe</h2>
+  <p>Original Object: {{ objectValue | json }}</p>
+</div>

@@ -10,6 +10,7 @@ import { ProductsComponent } from './products/products.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
 import { AddCategoryComponent } from './add-category/add-category.component';
 import { AddProductComponent } from './add-product/add-product.component';
+import { CurrencyPipe, DecimalPipe, PercentPipe } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -18,13 +19,13 @@ import { AddProductComponent } from './add-product/add-product.component';
     ProductsComponent,
     ProductDetailsComponent,
     AddCategoryComponent,
-    AddProductComponent
+    AddProductComponent,
   ],
   imports: [
     BrowserModule, HttpClientModule,
     AppRoutingModule, FormsModule
   ],
-  providers: [],
+  providers: [DecimalPipe, CurrencyPipe, PercentPipe],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
