@@ -1,0 +1,13 @@
+<p>profile works!</p>
+<div *ngIf="logedUser">
+  <p>{{logedUser.Email}}</p>
+  <p>{{logedUser.password}}</p>
+  <button (click)="openEditProfile()">Edit Profile</button>
+</div>
+
+<app-edit-profile
+                  *ngIf="Popup"
+                  [user]="logedUser"
+                  (userUpdated)="updateUser($event)">
+ 
+</app-edit-profile>

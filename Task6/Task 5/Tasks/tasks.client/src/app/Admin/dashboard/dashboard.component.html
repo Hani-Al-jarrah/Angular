@@ -1,0 +1,41 @@
+
+<div class="container-fluid">
+  <div class="row">
+    <!-- Sidebar -->
+    <nav class="col-auto col-md-3 col-xl-2 bg-sidebar d-flex flex-column p-3 text-white">
+      <a href="/" class="d-flex align-items-center pb-3 mb-3 text-white text-decoration-none">
+        <span class="fs-4">Dashboard</span>
+      </a>
+
+      <ul class="nav flex-column">
+        <li class="nav-item">
+          <a routerLink="/Dashboard/addCategory" class="nav-link text-white">
+            <i class="bi bi-folder-plus"></i> Add Category
+          </a>
+        </li>
+        <li class="nav-item">
+          <a routerLink="/Dashboard/addProduct" class="nav-link text-white">
+            <i class="bi bi-plus-circle"></i> Add Product
+          </a>
+        </li>
+        <li class="nav-item">
+          <a routerLink="/Dashboard/getCategory" class="nav-link text-white">
+            <i class="bi bi-list-ul"></i> Categories
+          </a>
+        </li>
+        <li class="nav-item">
+          <a routerLink="/Dashboard/getProduct" class="nav-link text-white">
+            <i class="bi bi-box-seam"></i> Products
+          </a>
+        </li>
+      </ul>
+
+      <hr class="text-white">
+    </nav>
+
+    <!-- Main Content -->
+    <div class="col py-3">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

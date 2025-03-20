@@ -1,0 +1,22 @@
+<form #edit="ngForm" (ngSubmit)="editProduct(edit.value)" class="form-container">
+  <h2 class="text-center">Edit Product</h2>
+
+  <div class="form-group mt-3">
+    <label for="name" class="form-label">Product Name</label>
+    <input type="text" id="name" class="form-control" name="name" placeholder="Enter product name" ngModel [(ngModel)]="dataProduct.name" required>
+  </div>
+
+  <div class="form-group mt-3">
+    <label for="avatar" class="form-label">Product Image URL</label>
+    <input type="text" id="avatar" class="form-control" name="avatar" placeholder="Enter image URL" ngModel [(ngModel)]="dataProduct.avatar" required>
+  </div>
+
+  <div class="form-group mt-3">
+    <label for="categoryId" class="form-label">Select Category</label>
+    <select class="form-select" id="categoryId" name="categoryId" ngModel required>
+      <option *ngFor="let item of categories" [value]="item.id">{{ item.name }}</option>
+    </select>
+  </div>
+
+  <button type="submit" class="btn btn-success w-100 mt-3">Save Changes</button>
+</form>

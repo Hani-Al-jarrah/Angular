@@ -1,0 +1,29 @@
+
+<div class="container mt-3">
+  <h2>Product List</h2>
+
+  <table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+      <tr>
+        <th>ID</th>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of dataProduct">
+        <td>{{ product.id }}</td>
+        <td>
+          <img [src]="product.img" alt="Product Image" class="img-thumbnail" width="80">
+        </td>
+        <td>{{ product.name }}</td>
+        <td>
+          <a style="color:black" [routerLink]="'/Dashboard/editProduct/' + product.id">Edit</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <a class="btn btn-primary" routerLink="/Dashboard/addProduct">Add Product</a>
+</div>

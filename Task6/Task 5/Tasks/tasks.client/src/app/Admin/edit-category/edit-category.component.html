@@ -1,0 +1,28 @@
+<!--<form #edit="ngForm" (ngSubmit)="editCategory(edit.value)">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">name of category</label>
+    <input type="text" class="form-control"   name="name" ngModel  [(ngModel)]="dataCategory.name">
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">img of category</label>
+    <input type="text" class="form-control"  name="img" ngModel    [(ngModel)]="dataCategory.img">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Edit</button>
+</form>-->
+<form #edit="ngForm" (ngSubmit)="editCategory(edit.value)" class="form-container">
+  <h2 class="text-center">Edit Category</h2>
+
+  <div class="mb-3">
+    <label for="categoryName" class="form-label">Name of Category</label>
+    <input type="text" id="categoryName" class="form-control" name="name" ngModel [(ngModel)]="dataCategory.name" required>
+  </div>
+
+  <div class="mb-3">
+    <label for="categoryImg" class="form-label">Image URL</label>
+    <input type="text" id="categoryImg" class="form-control" name="img" ngModel [(ngModel)]="dataCategory.img" required>
+  </div>
+
+  <button type="submit" class="btn btn-success w-100">Save Changes</button>
+</form>
