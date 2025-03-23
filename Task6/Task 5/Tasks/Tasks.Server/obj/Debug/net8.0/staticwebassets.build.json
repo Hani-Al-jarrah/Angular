@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "yr8l7S9A6SuT/2rHQ0MC2wFWs1xrcKSgjbNWaF9qgH8=",
+  "Hash": "qAmCBQsJ2sw+rLVmAoivm1STjrVi8NqfSsW8ccGc7cY=",
   "Source": "Tasks.Server",
   "BasePath": "_content/Tasks.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\tasks.client.esproj",
+      "Identity": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\tasks.client.esproj",
       "Version": 2,
       "Source": "tasks.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

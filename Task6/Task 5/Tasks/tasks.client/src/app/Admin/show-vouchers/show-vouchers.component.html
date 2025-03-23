@@ -1,0 +1,71 @@
+<!--<p>show-vouchers works!</p>
+<h1>Hani</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">price</th>
+      <th scope="col">quantity</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let item of data">
+      <th scope="row">{{item.id}}</th>
+      <td>{{ item.name }}</td>
+      <td>{{ item.price }}</td>
+      <td>{{ item.quantity }}</td>
+    </tr>
+  </tbody>
+</table>-->
+<a routerLink="/Dashboard/addVoucher"> Add voucher</a>
+
+<!--<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">price</th>
+      <th scope="col">quantity</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of data">
+      <th scope="row">3</th>
+      <td>{{ item.id }}</td>
+      <td>{{ item.name }}</td>
+      <td>{{ item.price }}</td>
+      <td>{{ item.quantity }}</td>-->
+<!--<td><a routerLink="/Dashboard/editVoucher/{{item.id}}">Edit</a></td>-->
+<!--</tr>
+  </tbody>
+</table>-->
+
+
+<a routerLink="/Dashboard/addVoucher"> Add voucher</a>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">price</th>
+      <th scope="col">quantity</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of  voucher">
+      <th scope="row">3</th>
+      <td>{{ item.name }}</td>
+      <td>{{ item.price }}</td>
+      <td>{{ item.quantity }}</td>
+      <td><a routerLink="/Dashboard/editVoucher/{{item.id}}">Edit</a></td>
+
+
+    </tr>
+  </tbody>
+</table>

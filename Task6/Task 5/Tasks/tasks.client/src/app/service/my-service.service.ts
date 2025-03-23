@@ -82,4 +82,20 @@ export class MyServiceService {
 
 
 
+
+  VoucherURL: any = "https://67d9ae8e35c87309f529c67f.mockapi.io/sign/voucher"
+
+  getvouchers() {
+    return this._http.get<any>(`https://67cd64b6dd7651e464ee3d63.mockapi.io/categories`);
+  }
+  getVoucherById(id: any) {
+    return this._http.get(`https://67d9ae8e35c87309f529c67f.mockapi.io/sign/voucher/${id}`)
+  }
+  addvoucher(data: any) {
+    return this._http.post(this.VoucherURL,data)
+  }
+  editvoucher(id: any, data: any) {
+    return this._http.put(`https://67d9ae8e35c87309f529c67f.mockapi.io/sign/voucher/${id}`, data)
+  }
+
 }

@@ -18,7 +18,7 @@ export class RegistrationComponent {
 
   postDataUser(data: any) {
     this._myser.postRegistrationUser(data).subscribe(() => {
-
+      
     })
 
    

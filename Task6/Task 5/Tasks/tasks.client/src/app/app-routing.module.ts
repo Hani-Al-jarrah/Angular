@@ -13,6 +13,9 @@ import { AddProductComponent } from './Admin/add-product/add-product.component';
 import { EditCategoryComponent } from './Admin/edit-category/edit-category.component';
 import { EditProductComponent } from './Admin/edit-product/edit-product.component';
 import { ProfileComponent } from './profile/profile.component';
+import { ShowVouchersComponent } from './Admin/show-vouchers/show-vouchers.component';
+import { AddVouchersComponent } from './Admin/add-vouchers/add-vouchers.component';
+import { EditVouchersComponent } from './Admin/edit-vouchers/edit-vouchers.component';
 
 
 
@@ -30,6 +33,13 @@ const routes: Routes = [
     path: "Dashboard", component: DashboardComponent, children: [
       { path: "getCategory", component: AdminCategoryComponent },
       { path: "getProduct", component: AdminProductComponent },
+
+
+      { path: "getVouchers", component: ShowVouchersComponent },
+      { path: "addVoucher", component: AddVouchersComponent },
+      { path: "editVoucher/:id", component: EditVouchersComponent },
+
+
       { path: "addCategory", component: AddCategoryComponent },
       { path: "addProduct", component: AddProductComponent },
       { path: "editCategory/:id", component: EditCategoryComponent },

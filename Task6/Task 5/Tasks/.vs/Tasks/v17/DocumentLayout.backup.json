@@ -1,149 +1,185 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\",
+  "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-vouchers\\add-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-vouchers\\add-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-vouchers\\add-vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-vouchers\\add-vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\show-vouchers\\show-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\show-vouchers\\show-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\service\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\service\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\edit-profile\\edit-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\service\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\service\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\show-vouchers\\show-vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\show-vouchers\\show-vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-category\\admin-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-category\\admin-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\products\\products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\products\\products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-category\\admin-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-category\\admin-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-category\\admin-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-category\\admin-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-category\\admin-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-vouchers\\edit-vouchers.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\edit-profile\\edit-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-product\\edit-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\edit-category\\edit-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\admin-product\\admin-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\admin\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\admin\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\products\\products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\products\\products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular-main-2\\task 5\\tasks\\tasks.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|c:\\users\\mac\\desktop\\angular\\task6\\task 5\\tasks\\tasks.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D16C3BA-76F7-478B-A960-116DE8DA0837}|tasks.client\\tasks.client.esproj|solutionrelative:tasks.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -154,380 +190,207 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add-vouchers.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T23:37:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add-vouchers.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-vouchers\\add-vouchers.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T23:37:05.952Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "edit-profile.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
-              "ViewState": "AgIAAAgAAACACAAAAAABwBEAAAADAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "show-vouchers.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-20T12:52:57.973Z",
+              "WhenOpened": "2025-03-23T13:23:27.371Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
+              "ViewState": "AgIAAAQAAADAmZmZmRkWwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T21:05:12.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "login.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\login\\login.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\login\\login.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T16:23:20.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "my-service.service.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\service\\my-service.service.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\service\\my-service.service.ts",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\service\\my-service.service.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\service\\my-service.service.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\service\\my-service.service.ts",
               "RelativeToolTip": "tasks.client\\src\\app\\service\\my-service.service.ts",
-              "ViewState": "AgIAAEcAAACgNDMzM1MwwE4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAABwbGZmZmYCwFwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-18T15:35:16.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "edit-profile.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-20T13:02:18.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\login\\login.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\login\\login.component.ts",
-              "ViewState": "AgIAAAoAAADAmpmZmdkswBQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T15:42:25.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "profile.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\profile\\profile.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\profile\\profile.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-20T12:48:49.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "profile.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\profile\\profile.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\profile\\profile.component.ts",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvyIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-20T12:42:00.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "edit-category.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
-              "ViewState": "AgIAAAoAAAAQzczMzOw5wA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T11:40:07.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "registration.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\registration\\registration.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\registration\\registration.component.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAABAvRcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T15:37:12.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "registration.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\registration\\registration.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\registration\\registration.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "show-vouchers.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\show-vouchers\\show-vouchers.component.html",
+              "ViewState": "AgIAACQAAADAl5mZmZkOwDUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T15:38:13.975Z",
+              "WhenOpened": "2025-03-23T13:24:23.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAB0AAACAAAAAAIApwCYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "edit-vouchers.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.ts",
+              "ViewState": "AgIAAAYAAACAmpmZmZkGwB0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T15:26:52.533Z",
+              "WhenOpened": "2025-03-23T13:18:10.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dashboard.component.css",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-18T18:14:05.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\app-routing.module.ts",
               "RelativeToolTip": "tasks.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAA4AAACA//////8IwBkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAADwZWZmZqYowCcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-18T14:41:51.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit-vouchers.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T13:18:09.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin-category.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T21:05:40.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T15:28:56.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAAMAAACAZmZmZuYswA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T15:32:23.625Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "dashboard.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
               "RelativeToolTip": "tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAABIaWZmZmYkwCIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T18:05:14.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T18:05:14.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "admin-product.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAACIAAACAzczMzIwjwDkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T21:07:55.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "edit-product.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
-              "ViewState": "AgIAAAcAAACAMjMzMzP9vykAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T12:20:54.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T15:26:52.533Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "edit-product.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T12:30:04.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "edit-product.component.css",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-20T08:40:26.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "edit-category.component.css",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-20T08:39:07.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "admin-product.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T21:08:28.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "admin-category.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T21:05:40.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "navbar.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\navbar\\navbar.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\navbar\\navbar.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\navbar\\navbar.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\navbar\\navbar.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T15:38:58.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "category.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\category\\category.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\category\\category.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\category\\category.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\category\\category.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T15:32:23.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "edit-category.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T11:55:17.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "add-product.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Title": "add-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "ViewState": "AgIAAAYAAAAAbGZmZmb0vw8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T21:39:57.128Z"
+              "WhenOpened": "2025-03-18T18:27:26.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "products.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\products\\products.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\products\\products.component.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T15:29:35.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "product-details.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\product-details\\product-details.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\product-details\\product-details.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\product-details\\product-details.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\product-details\\product-details.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T12:53:46.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "add-product.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T21:40:12.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 15,
               "Title": "add-category.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.html",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-category\\add-category.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.html",
               "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-category\\add-category.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -535,11 +398,299 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "profile.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\profile\\profile.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\profile\\profile.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T12:48:49.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "admin-product.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T21:08:28.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "edit-vouchers.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.spec.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.spec.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.spec.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T13:18:09.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin-product.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T21:07:55.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "edit-vouchers.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.css",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.css",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-vouchers\\edit-vouchers.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T13:18:08.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAoAAADAmpmZmdkswBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T15:42:25.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "edit-profile.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T13:02:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "profile.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\profile\\profile.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\profile\\profile.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\profile\\profile.component.ts",
+              "ViewState": "AgIAABQAAABwBAAAAAAJwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T12:42:00.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "edit-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
+              "ViewState": "AgIAAAoAAAAQzczMzOw5wA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T11:40:07.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "registration.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\registration\\registration.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\registration\\registration.component.ts",
+              "ViewState": "AgIAAAkAAADwzMzMzCw8wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T15:37:12.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T16:23:20.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "edit-profile.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "ViewState": "AgIAAAgAAACACAAAAAABwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T12:52:57.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "registration.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\registration\\registration.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\registration\\registration.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\registration\\registration.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T15:38:13.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dashboard.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-18T18:14:05.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "edit-product.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.ts",
+              "ViewState": "AgIAAAcAAACAMjMzMzP9vykAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T12:20:54.668Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "edit-product.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T12:30:04.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "edit-product.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-product\\edit-product.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T08:40:26.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "edit-category.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T08:39:07.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T15:38:58.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "edit-category.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T11:55:17.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "add-product.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T21:39:57.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "products.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\products\\products.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\products\\products.component.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T15:29:35.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "product-details.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\product-details\\product-details.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\product-details\\product-details.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\product-details\\product-details.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\product-details\\product-details.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T12:53:46.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "add-product.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
+              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
+              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T21:40:12.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "add-product.component.css",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.css",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.css",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-product\\add-product.component.css",
               "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-product\\add-product.component.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -547,11 +698,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "admin-product.component.css",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.css",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.css",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.css",
               "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-product\\admin-product.component.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -559,11 +710,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 42,
               "Title": "products.component.css",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.css",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\products\\products.component.css",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\products\\products.component.css",
               "RelativeToolTip": "tasks.client\\src\\app\\products\\products.component.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -571,35 +722,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "admin-category.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\admin-category\\admin-category.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T21:05:12.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "add-category.component.ts",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
-              "RelativeDocumentMoniker": "tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
-              "RelativeToolTip": "tasks.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T18:27:26.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 43,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "tasks.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\app\\app.component.html",
               "RelativeToolTip": "tasks.client\\src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -607,11 +734,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\index.html",
               "RelativeDocumentMoniker": "tasks.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular-main-2\\Task 5\\Tasks\\tasks.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\src\\index.html",
               "RelativeToolTip": "tasks.client\\src\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",

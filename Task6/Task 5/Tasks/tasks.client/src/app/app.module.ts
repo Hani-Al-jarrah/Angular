@@ -24,6 +24,10 @@ import { EditCategoryComponent } from './Admin/edit-category/edit-category.compo
 import { EditProductComponent } from './Admin/edit-product/edit-product.component';
 import { ProfileComponent } from './profile/profile.component';
 import { EditProfileComponent } from './edit-profile/edit-profile.component';
+//import { ShowVouchersComponent } from './show-vouchers/show-vouchers.component';
+//import { AddVouchersComponent } from './add-vouchers/add-vouchers.component';
+import { EditVouchersComponent } from './Admin/edit-vouchers/edit-vouchers.component';
+import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -45,11 +49,14 @@ import { EditProfileComponent } from './edit-profile/edit-profile.component';
                     EditCategoryComponent,
                     EditProductComponent,
                     ProfileComponent,
-                    EditProfileComponent
+                    EditProfileComponent,
+                    //ShowVouchersComponent,
+                    //AddVouchersComponent,
+                    EditVouchersComponent
   ],
   imports: [
     BrowserModule, HttpClientModule, FormsModule,
-    AppRoutingModule
+    AppRoutingModule, CommonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
